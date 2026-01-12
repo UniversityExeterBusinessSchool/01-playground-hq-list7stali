@@ -1,7 +1,12 @@
-# My Structure - Student XX
+# My Structure - Student 14
 
 ## What I See in My Data
-[Describe the codes, letters, numbers]
+== student_14.txt ===
+H-H-H-H-H-H 
+HEIGHT: 1
+WIDTH: 6
+TYPE: SINGLE_ROW
+COLOR: BLUE
 
 ## What I Think This Means
 [Interpret the patterns]
